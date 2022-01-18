@@ -13,4 +13,8 @@ The App Uses the following Modules:
 
 ## Images
 
-The app uses images from many sources. The Button's Images have been got from <a href="buttonomptimizer.com" target="_blank">here</a>
+The app uses images from many sources. The Button's Images have been got from [here].
+
+# END
+
+[here]: https://buttonoptimizer.com/ "here"
